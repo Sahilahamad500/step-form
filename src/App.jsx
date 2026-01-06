@@ -8,11 +8,8 @@ function App() {
   const [page, setPage] = useState(1);
   return (
     <>
-      {/* <div>
-        <Home />
-      </div> */}
       <div>
-        
+        <Home />
       </div>
     </>
   )
